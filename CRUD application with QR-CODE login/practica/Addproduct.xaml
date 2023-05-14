@@ -1,0 +1,27 @@
+﻿<Window x:Class="practica.AddProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practica"
+        mc:Ignorable="d"
+        Title="AddProduct" Height="200" Width="800">
+    <Grid MaxHeight="200" MaxWidth="800" MinHeight="200" MinWidth="800">
+        <TextBox x:Name="CatID_TB" HorizontalAlignment="Left" Height="34" Margin="10,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="61"/>
+        <TextBox x:Name="BranchID_TB" HorizontalAlignment="Left" Height="34" Margin="95,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="61"/>
+        <TextBox x:Name="Denumire_TB" HorizontalAlignment="Left" Height="34" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="130" Margin="185,0,0,0"/>
+        <TextBox x:Name="DataExp_TB" HorizontalAlignment="Center" Height="34" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="130"/>
+        <TextBox x:Name="DataFabr_TB" HorizontalAlignment="Left" Height="34" Margin="495,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="130"/>
+        <TextBox x:Name="Pret_TB" HorizontalAlignment="Left" Height="34" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="130" Margin="660,0,0,0"/>
+        <Label x:Name="CategID_TB" Content="CategID" HorizontalAlignment="Left" Margin="14,44,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="BranchID" Content="BranchID" HorizontalAlignment="Left" Margin="97,44,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.052,0.502" FontSize="14"/>
+        <Label x:Name="Denumire" Content="Denumire" HorizontalAlignment="Left" Margin="219,44,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="DataExp" Content="DataExp" HorizontalAlignment="Center" Margin="0,44,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="DataFabr" Content="DataFabr" HorizontalAlignment="Left" Margin="531,44,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="Pret" Content="Pret" HorizontalAlignment="Left" Margin="706,44,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Button x:Name="Adauga" Content="Adauga" HorizontalAlignment="Left" Height="39" Margin="141,135,0,0" VerticalAlignment="Top" Width="219" Background="#FF1BC85D" FontSize="15" Foreground="White" Click="Adauga_Click"/>
+        <Label Content="Data trebuie sa fie in format ZI-LUNA-AN" Margin="266,0,266,145" FontSize="14"/>
+        <Button x:Name="Iesire" Content="Iesire" HorizontalAlignment="Left" Height="39" Margin="441,135,0,0" VerticalAlignment="Top" Width="219" FontSize="15" Foreground="White" Background="#FFF35F5F" Click="Iesire_Click"/>
+
+    </Grid>
+</Window>

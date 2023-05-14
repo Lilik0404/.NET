@@ -1,0 +1,35 @@
+﻿<Window x:Class="practica.workwindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practica"
+        mc:Ignorable="d"
+        Title="Fereastra de lucru" Height="450" Width="800" Icon="/linella-md.png" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFFFCBCB"/>
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFFF8080" Offset="0.22"/>
+                <GradientStop Color="White" Offset="0.843"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel HorizontalAlignment="Left" Height="434" Width="218" VerticalAlignment="Center" FlowDirection="LeftToRight" Margin="0,0,0,0">
+            <Button x:Name="Inregistrare_Button" Content="Inregistrare" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="Inregistrare_Button_Click"/>
+            <Button x:Name="Actualizare_Button" Content="Actualizare" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="Actualizare_Button_Click"/>
+            <Button x:Name="ProduseExpirate_Button" Content="Produse expirate" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="ProduseExpirate_Button_Click"/>
+            <Button x:Name="_50Crescator_Button" Content="50% crescator dupa pret initial" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="12" Foreground="White" Background="#FFF7781F" Click="_50Crescator_Button_Click"/>
+            <Button x:Name="_20Crescator_Button" Content="20% crescator dupa pret actual" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="12" Foreground="White" Background="#FFF7781F" Click="_20Crescator_Button_Click"/>
+            <Button x:Name="CountAn_Button" Content="Count 1 an valabil" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="CountAn_Button_Click"/>
+            <Button x:Name="MaxVal1luna_Button" Content="Max valabil 1 luna" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="MaxVal1luna_Button_Click"/>
+            <Button x:Name="ExpirateExport_Button" Content="Expirate in Excel" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="ExpirateExport_Button_Click"/>
+            <Button x:Name="Max5Zile_Button" Content="Max 5 zile" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="Max5Zile_Button_Click"/>
+            <Button x:Name="RaportPerCategorie_Button" Content="Raport per categorie" BorderThickness="1,1,1,1" Margin="20,10,20,0" MinHeight="30" FontSize="14" Foreground="White" Background="#FFF7781F" Click="RaportPerCategorie_Button_Click" Visibility="Hidden"/>
+        </StackPanel>
+        <DataGrid x:Name="DataGridMy" Margin="218,49,12,49" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Button x:Name="Sterge_Button" Content="Sterge" Margin="218,0,0,11" BorderBrush="White" Background="#FFE09D9D" Foreground="White" FontSize="18" Click="Sterge_Button_Click" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="162"/>
+        <Button x:Name="AfisareTotala_Button" Content="Afisarea Totala" Margin="0,0,10,10" FontSize="15" ForceCursor="True" Foreground="White" Background="#FF19BB57" Click="AfisareTotala_Button_Click" HorizontalAlignment="Right" Width="162" Height="30" VerticalAlignment="Bottom"/>
+        <Button x:Name="Iesire_Button" Content="Iesire" Margin="0,10,10,0" FontSize="15" ForceCursor="True" Foreground="White" Background="#FFD7D815" Click="Iesire_Button_Click" HorizontalAlignment="Right" Width="162" Height="30" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
