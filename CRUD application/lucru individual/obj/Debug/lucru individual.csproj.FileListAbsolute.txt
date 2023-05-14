@@ -1,0 +1,140 @@
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\bin\Debug\lucru individual.exe.config
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\bin\Debug\lucru individual.exe
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\bin\Debug\lucru individual.pdb
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.AssemblyReference.cache
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Form1.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Properties.Resources.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.GenerateResource.cache
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CoreCompileInputs.cache
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CopyComplete
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.exe
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru individual.pdb
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perzi.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_peran.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perluna.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_total.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_contract.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_filialaid.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_idnp.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_lucratorid.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_contract.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_filialaid.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_client.resources
+C:\Users\Kiki\source\repos\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_lucrator.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.exe.config
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.exe
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.pdb
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.AssemblyReference.cache
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_contract.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_filialaid.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_idnp.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_lucratorid.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Form1.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Properties.Resources.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_peran.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perluna.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perzi.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_total.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_contract.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_filialaid.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_client.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_lucrator.resources
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.GenerateResource.cache
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CoreCompileInputs.cache
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CopyComplete
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.exe
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.pdb
+C:\Users\serma\OneDrive\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Form2.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.exe.config
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.exe
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\bin\Debug\lucru individual.pdb
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.AssemblyReference.cache
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_contract.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_filialaid.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_idnp.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_lucratorid.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Form1.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Form2.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Properties.Resources.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_peran.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perluna.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perzi.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_total.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_contract.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_filialaid.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_client.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_lucrator.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.GenerateResource.cache
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CoreCompileInputs.cache
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CopyComplete
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.exe
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru individual.pdb
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_Contract.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_filiala.resources
+C:\Users\Kiki\Desktop\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_lucrator.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.exe.config
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.exe
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.pdb
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.AssemblyReference.cache
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_Contract.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_filiala.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_lucrator.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_contract.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_filialaid.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_idnp.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_lucratorid.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Form1.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Form2.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Properties.Resources.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_peran.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perluna.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perzi.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_total.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_contract.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_filialaid.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_client.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Sterge_lucrator.resources
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.GenerateResource.cache
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CoreCompileInputs.cache
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CopyComplete
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.exe
+C:\Users\Kiki\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.pdb
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.exe.config
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.exe
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\lucru individual.pdb
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.AssemblyReference.cache
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_Contract.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_filiala.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Adaugare_lucrator.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_contract.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_filialaid.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_idnp.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Cautare_lucratorid.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Form1.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Form2.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Properties.Resources.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_peran.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perluna.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_perzi.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Statistica_total.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru_individual.Stergere_contract.resources
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.GenerateResource.cache
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CoreCompileInputs.cache
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.csproj.CopyComplete
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.exe
+C:\Users\Lilik\Desktop\fgsdfg\lucru individual\lucru individual\obj\Debug\lucru individual.pdb
